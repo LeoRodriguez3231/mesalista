@@ -3,7 +3,9 @@
 Aplicación web (React + Vite) para que un restaurante **registre reservas de forma centralizada, evite duplicados y vea un calendario interactivo**, usable desde celular y escritorio. Proyecto de la unidad *Desarrollo de Interfaces 2* (Zegel · Escuela de Tecnología).
 
 - **Prototipo y wireframes en Figma:** https://www.figma.com/design/nsj6ADx8GHILr3BnjQcfjl
-- **Integrantes:** _(escribir aquí los 3 nombres)_
+- **Integrantes:** Rodriguez Quito , Leo
+                   Bermeo Curo, Dayana
+                   Cerna Huamani, Richard
 
 ---
 
@@ -108,8 +110,7 @@ Identidad visual del restaurante **La Casona**, con aire de cartel impreso: lien
 - Botones y campos con tamaño táctil ≥ 40 px, etiquetas visibles, mensajes de error con `role="alert"`, estados con `aria-pressed`, foco visible y contraste suficiente.
 - Se respeta `prefers-reduced-motion` (se desactivan animaciones).
 
-## 8. Subir a GitHub (para entregar)
-
+## 8. Subir a GitHub 
 ```bash
 git init
 git add .
